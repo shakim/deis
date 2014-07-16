@@ -31,7 +31,7 @@ if ! which neutron > /dev/null; then
 fi
 
 if [ -z "$3" ]; then
-  FLAVOR="m1.small"
+  FLAVOR="m1.large"
 else
   FLAVOR=$3
 fi
