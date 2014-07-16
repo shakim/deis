@@ -1,4 +1,4 @@
-# Provision a Deis Cluster on Rackspace
+# Provision a Deis Cluster on OpenStack
 
 
 ### Prerequisites:
